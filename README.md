@@ -16,7 +16,7 @@ The steps i took to get to this hypothesis are:
 The conclusion derived from this is that people don't normally flee when having an encounter with a police officer but they still get killed. Only 0.4% of the people fleed which means that 96% of them didnt. Now another thing is if maybe the type of weapon used causes them to flee.
 
 
-[Working with the Data in Excel](https://github.com/wendyhielo/Data-Sets/blob/main/Screen%20Shot%202021-07-26%20at%206.16.05%20PM.png)
+![Working with the Data in Excel](https://github.com/wendyhielo/Data-Sets/blob/main/Screen%20Shot%202021-07-26%20at%206.16.05%20PM.png)
 
 
 If a cop takes out their gun then the chances of people fleeing is less. 

@@ -10,6 +10,8 @@ The steps i took to get to this hypothesis are:
 - I used the COUNTIF function and for the parameters
   -  I did from line 2 to 12492 (The first line had all the titles)
   -  The second parameter was "false" (These were all the people that did not flee)
+- To get the percentage of the hypothesis I divided the people who didn't flee with the overall number of people
+- This then brought the conclusion of 0.4% of the people did not flee
 
 
-![Working with the Data in Excel](https://github.com/wendyhielo/Data-Sets/blob/main/Screen%20Shot%202021-07-26%20at%206.01.36%20PM.png)
+![Working with the Data in Excel](https://github.com/wendyhielo/Data-Sets/blob/main/Screen%20Shot%202021-07-26%20at%206.16.05%20PM.png)
